@@ -1,7 +1,7 @@
 package com.travel_planner.travel_planner.service;
 
-import com.travel_planner.travel_planner.dto.request.PostSignInDto;
-import com.travel_planner.travel_planner.dto.request.PostSignUpDto;
+import com.travel_planner.travel_planner.dto.request.auth.PostSignInDto;
+import com.travel_planner.travel_planner.dto.request.auth.PostSignUpDto;
 import com.travel_planner.travel_planner.dto.response.ResponseDto;
 import com.travel_planner.travel_planner.dto.response.auth.PostSignInResponseDto;
 import com.travel_planner.travel_planner.dto.response.auth.PostSignUpResponseDto;

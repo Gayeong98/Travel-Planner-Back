@@ -1,6 +1,6 @@
 package com.travel_planner.travel_planner.entity;
 
-import com.travel_planner.travel_planner.dto.request.PostSignUpDto;
+import com.travel_planner.travel_planner.dto.request.auth.PostSignUpDto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

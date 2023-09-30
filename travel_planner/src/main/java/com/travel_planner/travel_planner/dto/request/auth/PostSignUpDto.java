@@ -1,4 +1,4 @@
-package com.travel_planner.travel_planner.dto.request;
+package com.travel_planner.travel_planner.dto.request.auth;
 
 import org.hibernate.validator.constraints.Length;
 

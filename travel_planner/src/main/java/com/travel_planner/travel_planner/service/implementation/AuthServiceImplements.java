@@ -6,8 +6,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.travel_planner.travel_planner.common.constant.ResponseMessage;
-import com.travel_planner.travel_planner.dto.request.PostSignInDto;
-import com.travel_planner.travel_planner.dto.request.PostSignUpDto;
+import com.travel_planner.travel_planner.dto.request.auth.PostSignInDto;
+import com.travel_planner.travel_planner.dto.request.auth.PostSignUpDto;
 import com.travel_planner.travel_planner.dto.response.ResponseDto;
 import com.travel_planner.travel_planner.dto.response.auth.PostSignInResponseDto;
 import com.travel_planner.travel_planner.dto.response.auth.PostSignUpResponseDto;
